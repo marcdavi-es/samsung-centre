@@ -243,3 +243,36 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+/* Marc's custom styles */
+
+.page-header {
+  background-color: #3962AC;
+  background-image: linear-gradient(120deg, #3962AC, #DE9CD8); }
+
+.main-content {
+  background-color: #fff;
+}
+
+.main-content h3 {
+  color: #3962AC;
+  margin-bottom: 2em;
+  margin-top: 5em;
+}
+
+img {
+  margin-top: 1em;
+}
+
+a {
+  color: #D788CC;
+}
+
+ul, ol {
+  padding-left: 1.6em;
+}
+
+li {
+  margin-top: 1em;
+}
+
